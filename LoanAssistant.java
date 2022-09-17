@@ -1,6 +1,3 @@
-//public class LoanAssistant {
-//
-//}
 package loanassistant;
 import javax.swing.*;
 import java.awt.*;
